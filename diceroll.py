@@ -1,5 +1,5 @@
 import random
-from diceroll6func import *
+from dicerollfunc import *
 
 dice = ""
 amount = ""
