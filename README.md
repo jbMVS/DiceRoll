@@ -1,5 +1,5 @@
 # DiceRoll
-A dice rolling cli program, for tabletop style games.
+A dice rolling cli program, for tabletop style games.  You will need help.txt, jokes.txt, and welcome.txt in the same directoroy as diceroll.py.
 
 Dice Roll is a command-line-interface program for rolling virtual multi-sided dice used in tabletop games. 
 Type a commmand followed by "Enter."
