@@ -10,7 +10,7 @@ def joke():
 def webpage():
     print("Webpage will open in your default browser...")
     time.sleep(1)
-    webbrowser.open_new("https://www.online-python.com/zXS3x7hk6l")
+    webbrowser.open_new("https://github.com/jbMVS/DiceRoll")
 
 def info():
     print("\nDice Roll is a simple Python program written to showcase the functions of using loops, sleep,\nand random integers. It was written by Jared Barney on January 27th, 2022. V6 updated 2022-02-08.")
